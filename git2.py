@@ -1,3 +1,6 @@
+import numpy as np
+
+
 print('hello--!!')
 print('noooo')
 print("I'm kosuke")

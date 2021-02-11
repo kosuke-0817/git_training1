@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 print('hello world!!')
 print('hello!!')
 print('goodbye')
@@ -7,5 +10,6 @@ a = 10
 b = 10
 print('This is kubota branch')
 print('This is kosuke branch')
+print('kosuke----')
 
 print('kubotakousuke')
